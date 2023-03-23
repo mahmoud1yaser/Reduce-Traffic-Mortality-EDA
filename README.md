@@ -1,4 +1,4 @@
-# Reducing Traffic Mortaility EDA
+# Reducing Traffic Mortality EDA
 
 Reducing Traffic Fatalities through Data Analysis
 
