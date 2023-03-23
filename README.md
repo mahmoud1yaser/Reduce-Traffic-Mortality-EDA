@@ -34,6 +34,6 @@ To run this project, you will need to have Python 3 and Jupyter Notebook install
 
 This project was created by Nahmoud Salman as a project for the Data Analysis Internship at Technocolabs Softwares.
 
-##License
+## License
 
 This project is licensed under the MIT License.
