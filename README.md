@@ -8,7 +8,7 @@ This project aims to investigate how to reduce the incidence of road accidents a
 
 The project uses a dataset originally collected by the National Highway Traffic Safety Administration and the National Association of Insurance Commissioners, which includes information on the number of drivers involved in fatal collisions per billion miles, percentage of drivers involved in fatal collisions who were speeding, percentage of drivers involved in fatal collisions who were alcohol-impaired, and percentage of drivers involved in fatal collisions who had not been involved in any previous accidents.
 
-## Project Steps and Results
+## Project Steps
 
     The raw data files and their format: The project starts with an introduction to the data and its sources, followed by a description of the columns and their abbreviations.
 
